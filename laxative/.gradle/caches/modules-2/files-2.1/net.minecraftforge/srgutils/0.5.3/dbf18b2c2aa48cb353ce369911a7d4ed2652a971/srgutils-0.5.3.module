@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.minecraftforge",
+    "module": "srgutils",
+    "version": "0.5.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "srgutils-0.5.3.jar",
+          "url": "srgutils-0.5.3.jar",
+          "size": 72056,
+          "sha512": "c46d4d63f330160688ac7907cfc6aefaf186998534354590d64a2494d663623c91928bcdd353e16f15d4af1a5ec1af941c4c5d3226f1656a9c68884b7b5245b6",
+          "sha256": "f919a314c090ad972274b81b500f3d257111315f4377662be33316889b9d9b5f",
+          "sha1": "4f144a664a80e2e894950c6d560da4fe0ca71492",
+          "md5": "fb9df0514d1851ed2943331c8cb214f0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "srgutils-0.5.3.jar",
+          "url": "srgutils-0.5.3.jar",
+          "size": 72056,
+          "sha512": "c46d4d63f330160688ac7907cfc6aefaf186998534354590d64a2494d663623c91928bcdd353e16f15d4af1a5ec1af941c4c5d3226f1656a9c68884b7b5245b6",
+          "sha256": "f919a314c090ad972274b81b500f3d257111315f4377662be33316889b9d9b5f",
+          "sha1": "4f144a664a80e2e894950c6d560da4fe0ca71492",
+          "md5": "fb9df0514d1851ed2943331c8cb214f0"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "srgutils-0.5.3-sources.jar",
+          "url": "srgutils-0.5.3-sources.jar",
+          "size": 22730,
+          "sha512": "e35aa1002495971652255825e66cc7fcdadba8d43233fda9108dc069f6fa397e2d96f51d2a8163433596b69ea55a9a4ec0a341c0476e8bcb685639c958bdf912",
+          "sha256": "fe0a8e9fa7d9878072d27ef7da1094d4f57a2f4625456ae2e730ec94fbcbb91a",
+          "sha1": "3e2861c81a4e8db343e6490f379cc5927d7c68e6",
+          "md5": "9e87bb9f3e9ef96c8c6dd99714963836"
+        }
+      ]
+    }
+  ]
+}

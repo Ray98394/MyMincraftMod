@@ -1,0 +1,6 @@
+JVM:         C:\hostedtoolcache\windows\jdk\17.0.8\x64\bin\java.exe
+JVM Args:    
+Run Args:    "--inJar", "C:\Users\runneradmin\.gradle\caches\forge_gradle\minecraft_user_repo\mcp\1.20.1-20230612.114412\joined\rename\output.jar", "--outJar", "C:\Users\runneradmin\.gradle\caches\forge_gradle\minecraft_user_repo\mcp\1.20.1-20230612.114412\joined\AccessTransformer\output.jar", "--atFile", "C:\Users\RUNNER~1\AppData\Local\Temp\FG_ats_17778834062689710809.cfg"
+Classpath:   C:\Users\runneradmin\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.0.7\accesstransformers-8.0.7-fatjar.jar
+Working Dir: C:\Users\runneradmin\.gradle\caches\forge_gradle\minecraft_user_repo\mcp\1.20.1-20230612.114412\joined\AccessTransformer
+Main Class:  net.minecraftforge.accesstransformer.TransformerProcessor

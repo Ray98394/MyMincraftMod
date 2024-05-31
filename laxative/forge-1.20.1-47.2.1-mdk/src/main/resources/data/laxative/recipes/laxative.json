@@ -1,0 +1,21 @@
+{
+ "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "B": {
+      "item": "minecraft:potion"
+    }
+  },
+  "pattern": [
+    "AB",
+    "BB"
+  ],
+
+  "result": {
+    "count": 3,
+    "item": "laxative:laxative"
+  },
+  "show_notification": true
+}
