@@ -1,0 +1,11 @@
+{
+  "item.tutorial_mod.zircon": "锆石",
+  "item.tutorial_mod.raw_zircon": "粗锆石",
+
+  "block.tutorial_mod.zircon_block": "锆方块",
+  "block.tutorial_mod.zircon_ore": "锆矿",
+  "block.tutorial_mod.deepslate_zircon_ore": "深层锆矿",
+
+  "itemGroup.tutorialtab": "Tutorial Tab"
+
+}
