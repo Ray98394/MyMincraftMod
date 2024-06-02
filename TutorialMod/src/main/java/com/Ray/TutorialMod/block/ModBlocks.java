@@ -4,6 +4,7 @@ package com.Ray.TutorialMod.block;
 import com.Ray.TutorialMod.Item.ModCreativeModTab;
 import com.Ray.TutorialMod.Item.ModItem;
 import com.Ray.TutorialMod.TutorialMod;
+import com.Ray.TutorialMod.block.custom.JumpyBlock;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
@@ -33,6 +34,9 @@ public class ModBlocks {
     public static final RegistryObject<Block> DEEPSLATE_ZIRCON_ORE = registerBlock("deepslate_zircon_ore",
             ()->new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE).strength(7f).requiresCorrectToolForDrops(),
                     UniformInt.of(3,7)),ModCreativeModTab.TUTORIAL_TAB);
+
+    public static final RegistryObject<Block> JUMPY_BLOCK = registerBlock("jumpy_block",
+            ()->new JumpyBlock(BlockBehaviour.Properties.of(Material.STONE).strength(6f)),ModCreativeModTab.TUTORIAL_TAB);
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab){
         RegistryObject<T> toReturn = BLOCKS.register(name,block);

@@ -5,6 +5,9 @@
   "block.tutorial_mod.zircon_block": "锆方块",
   "block.tutorial_mod.zircon_ore": "锆矿",
   "block.tutorial_mod.deepslate_zircon_ore": "深层锆矿",
+  "block.tutorial_mod.jumpy_block": "Jumpy Block",
+
+  "item.tutorial_mod.eight_ball": "Eight Ball",
 
   "itemGroup.tutorialtab": "Tutorial Tab"
 
