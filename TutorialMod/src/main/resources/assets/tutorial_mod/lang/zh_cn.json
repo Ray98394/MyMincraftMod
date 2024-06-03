@@ -1,11 +1,15 @@
 {
   "item.tutorial_mod.zircon": "锆石",
   "item.tutorial_mod.raw_zircon": "粗锆石",
+  "item.tutorial_mod.blueberry_seeds": "蓝莓种子",
+  "item.tutorial_mod.blueberry": "蓝莓",
 
   "block.tutorial_mod.zircon_block": "锆方块",
   "block.tutorial_mod.zircon_ore": "锆矿",
   "block.tutorial_mod.deepslate_zircon_ore": "深层锆矿",
   "block.tutorial_mod.jumpy_block": "Jumpy Block",
+  "block.tutorial_mod.zircon_lamp": "Zircon Lamp",
+  "block.tutorial_mod.blueberry_crop": "蓝莓作物",
 
   "item.tutorial_mod.eight_ball": "Eight Ball",
 
